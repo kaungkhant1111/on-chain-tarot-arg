@@ -1,0 +1,9 @@
+# Generated on 2026-11-15
+*.py linguist-detectable
+* text=auto eol=lf
+
+*.svg text
+yarn.lock linguist-generated
+**/*.py linguist-detectable
+
+public/index.html linguist-vendored
